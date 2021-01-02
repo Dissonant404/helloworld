@@ -24,7 +24,7 @@ for row in range(0,7):
         else:      
             e=e+" "    
     e=e+"\n"    
-print(e);
+print(e)
 
 l=""    
 for row in range(0,7):    
