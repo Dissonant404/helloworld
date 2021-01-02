@@ -2,7 +2,7 @@
 
 void main()
 {
-	char h[10]="hello",e[10]="world",i,j;
+	char h[10]="Hello",e[10]="World",i,j;
 	for(i=0;h[i]!='\0';++i);
 	//printf("%d" "%s",i,h[i]);
 	
